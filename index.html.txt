@@ -1,2 +1,4 @@
 Which is your birthday month.
 what is your birth year.
+what is your hobby.
+what is your age.
